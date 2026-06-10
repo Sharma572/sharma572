@@ -34,10 +34,10 @@ I'm a Tech-savvy and research-oriented web developer with an innate propensity f
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raunak-sharma-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunak-sharma-" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/Sharma572" target="blank"><img align="center"
+<!-- <a href="https://codesandbox.io/u/Sharma572" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" 
 height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raunak.sharma.739326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raunak.sharma.739326" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/raunak.sharma.739326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raunak.sharma.739326" height="30" width="40" /></a> -->
 <a href="https://instagram.com/https://www.instagram.com/s.raunak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/s.raunak/" height="30" width="40" /></a>
 </p>
 
