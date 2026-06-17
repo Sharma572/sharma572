@@ -1,61 +1,150 @@
- <p align="center"> <img width="60%" src=https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif alt="webdevlopmentp-2" /> </p>
-🙋‍♂️ About Me
+# Hi 👋, I'm Raunak Sharma
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Raunak+Sharma!;Web+Developer...;" style="max-width: 100%;">
+### Frontend Engineer • React Developer • SaaS Product Builder
 
-<br/>
-I'm a Tech-savvy and research-oriented web developer with an innate propensity for learning.
-<br/>
- 
-
-<!-- <h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
-<h3 align="center">A passionate web developer from India</h3> -->
-
-
-
-
-<h3 align="center">A passionate frontend developer from New Delhi, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma572&label=Profile%20views&color=0e75b6&style=flat" alt="sharma572" /> </p>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **Html , Css , JavaScript , React Js**
-
-- 📫 How to reach me **raunak0097@gmail.com**
-
-- ⚡ Fun fact **wanting to have a tattoos but Mom is't allowing.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raunak-sharma-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunak-sharma-" height="30" width="40" /></a>
-<!-- <a href="https://codesandbox.io/u/Sharma572" target="blank"><img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" 
-height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raunak.sharma.739326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raunak.sharma.739326" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/https://www.instagram.com/s.raunak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/s.raunak/" height="30" width="40" /></a> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Engineer;React+%7C+TypeScript+Developer;Building+Production+Ready+SaaS+Applications;DXF+%26+GIS+Visualization+Developer;Always+Learning+Always+Building" />
 </p>
 
+---
 
+## 🚀 About Me
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+* 💼 Frontend Engineer working on enterprise SaaS products
+* ⚡ Building EV Charging Management Platforms
+* 🗺️ Working on DXF CAD Viewers & Google Maps Integrations
+* 🌱 Currently learning Full Stack Development
+* 💬 Ask me about React, TypeScript, JavaScript, Node.js & MongoDB
+* 🎯 Passionate about building scalable products and solving real-world problems
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma572&show_icons=true&locale=en&layout=compact" alt="raunakk572" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharma572&show_icons=true&locale=en" alt="raunakk572" /></p>
+## 🛠️ Tech Stack
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharma572&theme=vue&hide_border=false)<br/>
+### Frontend
 
-<p><img align="center" src="https://raw.githubusercontent.com/Shubhamvumap123/Shubhamvumap123/output/github-contribution-grid-snake.gif" alt="snakeRepo" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,tailwind,bootstrap" />
+</p>
 
+### Backend
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 💼 Current Focus
+
+* ⚡ EV Charging SaaS Platforms
+* 📊 Analytics Dashboards
+* 🗺️ Google Maps Integration
+* 📐 DXF / CAD Visualization
+* 🚀 React Performance Optimization
+* 🔄 Real-Time Data Systems
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ Charge City EV Platform
+
+Enterprise EV charging infrastructure management platform.
+
+**Key Features**
+
+* OCPP Integration
+* Real-Time Charger Monitoring
+* Revenue Analytics
+* Session Tracking
+* Location Management
+
+---
+
+### 🗺️ DXF CAD Viewer
+
+Interactive CAD Viewer with GIS integration.
+
+**Highlights**
+
+* DXF Parsing
+* Layer Management
+* Google Maps Overlay
+* Spatial Selection Tools
+* Large File Handling
+
+---
+
+### 📈 ROI Calculator SaaS
+
+Business ROI calculation and subscription platform.
+
+**Features**
+
+* Dynamic Pricing Models
+* Credit Management
+* User Dashboard
+* CMS Panel
+* Reports & Analytics
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharma572&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sharma572&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma572&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharma572&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharma572&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: **[raunak0097@gmail.com](mailto:raunak0097@gmail.com)**
+* 💻 GitHub: **https://github.com/sharma572**
+* 💼 LinkedIn: **https://linkedin.com/in/raunak-sharma**
+
+---
+
+## 💡 Engineering Philosophy
+
+> Build clean.
+> Build scalable.
+> Build products that solve real-world problems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
